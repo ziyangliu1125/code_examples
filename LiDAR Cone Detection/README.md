@@ -79,6 +79,3 @@ The green points represent input data, the red points represents the predicted c
 
 ![result_close](./img/result_close.png)
 
-## Video
-
-[Link](https://drive.google.com/file/d/17wFgXcH1a11g3Xvoi9PhGUUXUfend84e/view?usp=sharing)
